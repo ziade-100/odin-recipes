@@ -1,1 +1,1 @@
-# odn-recipe
+This project is from odin-project html tutorials 
